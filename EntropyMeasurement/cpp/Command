@@ -1,0 +1,4 @@
+./ea_non_iid ../bin/RSS_stat_bit.bin 8 -i -a -V
+
+ -i for initial estimate or -c for conditioned data
+ -a for all or -t for trancation upto 10^6
